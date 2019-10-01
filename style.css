@@ -1,0 +1,45 @@
+.burger-body {
+    height: 500px;
+    opacity: .8;
+}
+
+.input{
+   height: 100%;
+   text-align: center;
+   width: 100%;
+}
+
+.mooMooButton{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    width: 100px;
+}
+.mooMoodeleteButton{
+    position: absolute;
+    bottom: 20px;;
+    right: 20px;;
+    width:100px;
+}
+.mooMoos{
+   height: 100px;
+   width: 100px;
+}
+
+.clear{
+    width: 200px;
+    margin: 0 auto;
+   
+}
+
+.space{
+    height: 20px;
+}
+
+.title{
+    text-align: center;
+    opacity: .9;
+}
+body{
+    background-image: url(./assets/cit-fd-028-5ce2f0a2.jpg);
+}
