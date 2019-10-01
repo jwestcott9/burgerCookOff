@@ -1,12 +1,26 @@
 .burger-body {
-    height: 500px;
+    height: 550px;
     opacity: .8;
 }
 
 .input{
    height: 100%;
    text-align: center;
-   width: 100%;
+   width: 85%;
+   
+}
+
+.input2{
+    float:right;
+}
+#count1{
+    float: right;
+    padding: 5px;
+}
+#count2{
+    float:left;
+    padding: 5px;
+    margin-right: 5px;
 }
 
 .mooMooButton{
@@ -25,7 +39,27 @@
    height: 100px;
    width: 100px;
 }
+.mooMoosMedium{
+    height: 60px;
+    width: 60px;
+ }
+ .mooMoosSmall{
+     height: 40px;
+     width: 40px;
+ }
 
+ .mooMoos1{
+    height: 100px;
+    width: 100px;
+ }
+ .mooMoosMedium1{
+     height: 60px;
+     width: 60px;
+  }
+  .mooMoosSmall1{
+      height: 30px;
+      width: 30px;
+  }
 .clear{
     width: 200px;
     margin: 0 auto;
