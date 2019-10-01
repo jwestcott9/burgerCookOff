@@ -67,6 +67,7 @@ $("#clear").on("click", function(){
     $("#firstSide").empty();
     x = 0;
     y= 0;
+    $(".counters").text("0");
 })
 
 $("#firstSideSubtract").on("click", function(){
